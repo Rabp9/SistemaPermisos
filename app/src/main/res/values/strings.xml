@@ -4,4 +4,10 @@
     <string name="image_description">Descripción</string>
     <string name="description">Description</string>
     <string name="app_descripcion">Example application</string>
+    <string name="codigo">9194</string>
+    <string name="nro_boleta">1159</string>
+    <string name="fecha_permiso">2017&#8211;02&#8211;14</string>
+    <string name="hora_salida">15:54:00</string>
+    <string name="motivo">ESSALUD</string>
+    <string name="destino">Essalud cita</string>
 </resources>
