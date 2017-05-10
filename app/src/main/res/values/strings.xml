@@ -1,4 +1,7 @@
 <resources>
     <string name="app_name">Sistema Permisos</string>
     <string name="action_settings">Settings</string>
+    <string name="image_description">Descripción</string>
+    <string name="description">Description</string>
+    <string name="app_descripcion">Example application</string>
 </resources>
